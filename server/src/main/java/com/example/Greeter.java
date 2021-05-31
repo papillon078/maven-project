@@ -3,7 +3,10 @@ package com.example;
 
 public class Greeter {
 
-  
+  /**
+  *methode qui dite bonjour a quelqu'un
+  *@return String
+  */
   public Greeter() {
 
   }
