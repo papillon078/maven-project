@@ -1,15 +1,17 @@
 package com.example;
 
-
+/**
+*classe greeter qui dit bonjour a qq
+*/
 public class Greeter {
 
   /**
-  *classe qui dite bonjour a quelqu'un
-  *
+  *constructeur de classe
   */
   public Greeter() {
 
   }
+  
   /**
   *methode qui dite bonjour a quelqu'un
   *@param String
